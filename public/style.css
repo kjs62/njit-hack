@@ -1,16 +1,99 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+
+    background: #B60000;
 }
 
 header{
     position: absolute;
     width: 1920px;
-    height: 138px;
+    height: 75px;
     left: 0px;
     top: 0px;
     
     background: rgba(0, 0, 0, 0.06);
+}
+
+header > name{
+    position: absolute;
+    width: 824px;
+    height: 135px;
+    left: -83px;
+    top: 31px;
+
+    font-family: Sunflower;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 80px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+header > home{
+    position: absolute;
+    width: 239px;
+    height: 93px;
+    left: 954px;
+    top: 42px;
+
+    font-family: Sunflower;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+header > explore{
+    position: absolute;
+    width: 239px;
+    height: 93px;
+    left: 1167px;
+    top: 42px;
+    
+    font-family: Sunflower;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+header > login{
+    position: absolute;
+    width: 239px;
+    height: 93px;
+    left: 1406px;
+    top: 40px;
+
+    font-family: Sunflower;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+}
+
+header > register{
+    position: absolute;
+    width: 239px;
+    height: 93px;
+    left: 1644px;
+    top: 40px;
+    
+    font-family: Sunflower;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
 }
 
 .completed {
