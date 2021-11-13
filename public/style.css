@@ -98,16 +98,6 @@ header > register{
     color: #FFFFFF;
 }
 
-granny{
-    position: relative;
-    width: auto/2;
-    height: 987px;
-    left: 0px;
-    top: 138px;
-    
-    background: url(65963.jpg);
-}
-
 .completed {
     text-decoration: line-through;
 }
