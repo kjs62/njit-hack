@@ -17,15 +17,15 @@ header{
 
 header > name{
     position: absolute;
-    width: 824px;
+    width: 300px;
     height: 135px;
     left: -83px;
-    top: 31px;
+    top: 0px;
 
     font-family: Sunflower;
     font-style: normal;
     font-weight: bold;
-    font-size: 64px;
+    font-size: 32px;
     line-height: 80px;
     text-align: center;
 
@@ -37,12 +37,12 @@ header > home{
     width: 239px;
     height: 93px;
     left: 954px;
-    top: 42px;
+    top: 0px;
 
     font-family: Sunflower;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 32px;
     line-height: 60px;
     text-align: center;
 
@@ -54,12 +54,12 @@ header > explore{
     width: 239px;
     height: 93px;
     left: 1167px;
-    top: 42px;
+    top: 0px;
     
     font-family: Sunflower;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 32px;
     line-height: 60px;
     text-align: center;
     
@@ -71,12 +71,12 @@ header > login{
     width: 239px;
     height: 93px;
     left: 1406px;
-    top: 40px;
+    top: 0px;
 
     font-family: Sunflower;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 32px;
     line-height: 60px;
     text-align: center;
 }
@@ -86,12 +86,12 @@ header > register{
     width: 239px;
     height: 93px;
     left: 1644px;
-    top: 40px;
+    top: 0px;
     
     font-family: Sunflower;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 32px;
     line-height: 60px;
     text-align: center;
 }
