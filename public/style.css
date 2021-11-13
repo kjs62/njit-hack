@@ -7,7 +7,7 @@ body {
 
 header{
     position: absolute;
-    width: 1920px;
+    width: auto;
     height: 75px;
     left: 0px;
     top: 0px;
@@ -19,7 +19,7 @@ header > name{
     position: absolute;
     width: 300px;
     height: 135px;
-    left: -83px;
+    left: 0px;
     top: 0px;
 
     font-family: Sunflower;
@@ -36,7 +36,7 @@ header > home{
     position: absolute;
     width: 239px;
     height: 93px;
-    left: 954px;
+    right: 600px;
     top: 0px;
 
     font-family: Sunflower;
@@ -54,7 +54,7 @@ header > explore{
     width: 239px;
     height: 93px;
     left: 1167px;
-    top: 0px;
+    right: 400px;
     
     font-family: Sunflower;
     font-style: normal;
@@ -70,7 +70,7 @@ header > login{
     position: absolute;
     width: 239px;
     height: 93px;
-    left: 1406px;
+    right: 200px;
     top: 0px;
 
     font-family: Sunflower;
@@ -79,13 +79,14 @@ header > login{
     font-size: 32px;
     line-height: 60px;
     text-align: center;
+    color: #FFFFFF;
 }
 
 header > register{
     position: absolute;
     width: 239px;
     height: 93px;
-    left: 1644px;
+    right: 0px;
     top: 0px;
     
     font-family: Sunflower;
@@ -94,6 +95,7 @@ header > register{
     font-size: 32px;
     line-height: 60px;
     text-align: center;
+    color: #FFFFFF;
 }
 
 .completed {
