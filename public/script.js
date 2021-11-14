@@ -1,3 +1,4 @@
+var React = require('react');
 // run the code on load
 window.onload = pageLoad;
 
